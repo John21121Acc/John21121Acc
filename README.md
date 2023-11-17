@@ -41,8 +41,6 @@ aboutMe = {
 }
 ```
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JohnJohn21121&show_icons=true&theme=dracula&bg_color=00000000)](https://github.com/anuraghazra/github-readme-stats) 
-
 ## Get in Touch
 
 I'm always eager to connect with fellow developers and learners. If you'd like to collaborate, discuss projects, or simply say hello, feel free to reach out to me:
